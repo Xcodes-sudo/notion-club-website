@@ -141,5 +141,4 @@ Proposed future updates:
 
 ---
 
-## License
-This project is intended for educational, portfolio, and demonstration purposes.
+
